@@ -24,7 +24,7 @@ This project is using JIRA tool for test definition and defect traking following
 [Skyscanner Test Plan](test-plan-skyscanner.pdf)
 Test Plan for Skyscanner Project.
 
-### REGRESSUIB TEST PLAN
+### REGRESSION TEST PLAN
 [Skyscanner Regression Test Plan](regression-test-plan-skyscanner.pdf)
 Regressuib Test Plan for Skyscanner Project.
 

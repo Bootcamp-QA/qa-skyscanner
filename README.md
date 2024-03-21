@@ -3,6 +3,7 @@ QA for the web [SKYSCANNER](https://skyscanner.com)
 
 ## FEATURES COVERED
 * Search Return Flight
+* Search One Way Flight
 
 
 ## JIRA PROJECT
@@ -31,7 +32,7 @@ Regressuib Test Plan for Skyscanner Project.
 
 ### TEST RESULTS
 Functional test results and bug report.
-* [Functional Test Results and Bug Report 1.1](test-results-and-bug-report-skyscanner.pdf) 
+* [Functional Test Results and Bug Report](test-results-and-bug-report-skyscanner.pdf) 
 
 
 ## AUTHOR
